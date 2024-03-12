@@ -1,0 +1,15 @@
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\bin\Debug\net6.0\datalist_remove.exe
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\bin\Debug\net6.0\datalist_remove.deps.json
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\bin\Debug\net6.0\datalist_remove.runtimeconfig.json
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\bin\Debug\net6.0\datalist_remove.dll
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\bin\Debug\net6.0\datalist_remove.pdb
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\obj\Debug\net6.0\datalist_remove.csproj.AssemblyReference.cache
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\obj\Debug\net6.0\datalist_remove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\obj\Debug\net6.0\datalist_remove.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\obj\Debug\net6.0\datalist_remove.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\obj\Debug\net6.0\datalist_remove.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\obj\Debug\net6.0\datalist_remove.dll
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\obj\Debug\net6.0\refint\datalist_remove.dll
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\obj\Debug\net6.0\datalist_remove.pdb
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\obj\Debug\net6.0\datalist_remove.genruntimeconfig.cache
+C:\Users\FA507XV\Desktop\home_work\datalist_remove\obj\Debug\net6.0\ref\datalist_remove.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datalist_remove", "datalist_remove.csproj", "{F40502D5-9181-42BC-9A91-9F8541A3516D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F40502D5-9181-42BC-9A91-9F8541A3516D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40502D5-9181-42BC-9A91-9F8541A3516D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40502D5-9181-42BC-9A91-9F8541A3516D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40502D5-9181-42BC-9A91-9F8541A3516D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2551625E-AAC1-4216-84D4-A9EFA6A62091}
+	EndGlobalSection
+EndGlobal
